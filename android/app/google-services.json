@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703180197757",
+    "project_id": "finalapp-8b330",
+    "storage_bucket": "finalapp-8b330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703180197757:android:98965e0dbb0705c7ac4614",
+        "android_client_info": {
+          "package_name": "com.example.rentit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703180197757-bcegher9clch2ijkc21pq762ukl39qhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentit",
+            "certificate_hash": "e50b4d759b363daad72554e9b61b4066bdff88ac"
+          }
+        },
+        {
+          "client_id": "703180197757-mos62grvbom5dafqdh2jr9qouddvlpnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaU-oAW1-SGwOz47rZdfF8JgBVI64ry8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703180197757-mos62grvbom5dafqdh2jr9qouddvlpnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
